@@ -66,9 +66,28 @@ Pokud jej někdo chce použít, činí tak **na vlastní odpovědnost**.
 
 ## 📱 Použití na Kindle
 
-Slovník je určen k nahrání do zařízení Kindle jako vlastní slovník.
-Konkrétní postup se může lišit podle modelu a verze firmware.
+Základní postup nahrání slovníku do Kindle:
 
+Připoj Kindle k počítači pomocí USB kabelu
+
+Kindle se zobrazí jako externí disk (např. D:)
+
+Otevři složku nebo vytvoř pokud dictionaries neexistuje:
+
+documents/dictionaries
+
+
+Zkopíruj soubor slovníku .mobi do této složky
+
+Bezpečně odeber zařízení a odpoj Kindle
+
+Na Kindlu otevři:
+Settings → Language & Dictionaries → Dictionaries
+
+Slovník aktivuj jako výchozí český slovník
+
+Poznámka:
+Konkrétní názvy menu se mohou mírně lišit podle modelu Kindle a verze firmware.
 ---
 
 ## 🤝 Přispívání
